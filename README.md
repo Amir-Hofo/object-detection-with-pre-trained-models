@@ -4,5 +4,7 @@ In this notebook, we want to recognize the objects in the image using pre-traine
 Object detection is a computer vision technique that works to identify and locate objects within an image or video. Specifically, object detection draws bounding boxes around these detected objects, which allow us to locate where said objects are in (or how they move through) a given scene. [fritz.ai]
 # packages version
 python: 3.9.18
+
 torch: 2.1.0
+
 torchvision: 0.16.0
